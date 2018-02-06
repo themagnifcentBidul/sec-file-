@@ -1,0 +1,153 @@
+Me<header>
+  <link href='https://fonts.googleapis.com/css?
+  family-Lobster' rel='stylesheet' type='text/css'> 
+ <link href='https://fonts.googleapis.com/css?
+family=Lobster' rel='stylesheet'  type='text/css'>
+<link href="https://maxcdn.bootstrapcdn.com/font-
+awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
+integrity="sha384-
+wvfxpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE4QkPXCAFlNEevoEH3Sl0sib
+VcOQVN" crossorigin="anonymous">
+  
+  
+</header>
+
+<div class="pageone text-center">
+  <ul class="nav nav-pills" <li>
+    <li>
+      <a href="#">TheMagnificentbcBidul</a>
+    </li>
+
+    <li class ="pull-right">
+      <a href ="#p2">About Me</a>
+    </li>
+    <li class ="pull-right">
+      <a href ="#p3">profile</a>
+    </li>
+    <li class ="pull-right">
+      <a href ="#">programming</a>
+    </li>
+    <li class ="pull-right">
+      <a href ="#p4">contact me</a>
+    </li>
+  </ul>
+<div class ="pageone">
+  <div class ="block text-center">
+ <h1>TheMagnificent.Bidul</h1>
+ <h1>Always watching.Always evolving</h1> 
+    </div>
+  <div class ="btnlist text-center">
+  <a class ="btn btn-default"
+     href="https://twitter.com/therealBidul"><i class="fa fa-twitter" id="twitterIcon" aria-hidden="true"></i> Twitter</a>
+    
+     <a class ="btn btn-default"
+     href="https://github.com/themagnifcentBidul"><i class="fa fa-github" id="githubIcon" aria-hidden="true"></i> Githup</a>
+    
+     <a class ="btn btn-default"
+     href="https://www.youtube.com"><i class="fa fa-youtube-play" id="youtubeIcon" aria-hidden="true"></i></i> youtube</a>
+    
+     <a class ="btn btn-default"
+     href="https://www.snapchat.com/add/iambasil"><i class="fa fa-snapchat-square" id="snapchatIcon" aria-hidden="true"></i> Snapchat</a>
+    
+      <a class ="btn btn-default"
+     href="https://www.facebook.com/baselalfarra.official"><i class="fa fa-facebook-official" id="facebookIcon" aria-hidden="true"></i> Facebook</a>
+</div>
+</div>
+     <div class ="pagetwo" id="p2">
+     <div class ="row">
+        <div class ="col-md-6 text-center">
+          <h1>TheMagnificentbcBidul</h1>
+          <p>I'm a self-wed designer, developer ,.
+I'm currently part of a small web development team in an FreeCC
+My passion is to use technology based solution.
+Competences:
+Language and Frameworks:
+Javascript, HTML5, CSS3, Bootstrap3
+Tools & expertise:
+Git, theFront-end man.
+<br>
+:Iam a humble young man:</p>
+          </div>
+     <div class ="col-md-6">
+       <img src="https://s9.postimg.org/5xis65gqn/Whats_App_Image_2018-01-03_at_01.51.09.jpg" class="me"/>
+      </div>
+  </div>
+  <div class = " pagethree text-center" id="p3">
+    <div class ="paddingtop">
+      <h1>Next Level Profile</h1>
+      <h2>Profile Best Above The Rest</h2>
+      </div>
+    <!--These codes have been taken from the explanation I saw because of the time because time is on my side-->
+    <div class ="row">
+      <div class ="col-md-6"></div>
+      <p  data-height="450" data-theme-id="dark" data-slug-hash="ZWoyqx" data-default-
+tab="result" data-user="PizzaPokperGuy"  data-embed-version="2" data-pen-title="Twitch
+JSON API" class="codepen">See the Pen <a
+href="https://www.freecodecamp.org/themagnifcentbidul">Twitch JOSN API</a> TheMagnificentbcBidul
+(‹a href="http://codepen.lo/PizzaPokperGuy">@PiZZaPokperGuy</a>) on <a
+href="http://codepen.io">CodePen</a>.</p>
+<script  async  src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+    <a href="https://www.freecodecamp.org/themagnifcentbidul"target="blank"><h1>Twitch API Project</h1></a>
+
+      </div>
+      <div class ="col-md-6"></div>
+        <p  data-height="450" data-theme-id="dark" data-slug-hash="ZWoyqx" data-default-
+tab="result" data-user="PizzaPokperGuy"  data-embed-version="2" data-pen-title="Twitch
+JSON API" class="codepen">See the Pen <a
+href="https://www.freecodecamp.org/themagnifcentbidul">Twitch JOSN API</a> TheMagnificentbcBidul
+(‹a href="http://codepen.lo/PizzaPokperGuy">@PiZZaPokperGuy</a>) on <a
+href="http://codepen.io">CodePen</a>.</p>
+<script  async  src="https://www.freecodecamp.org/themagnifcentbidul"></script>
+      </div>
+   
+  
+</div>
+    
+      </div>
+       </div>
+       
+  <div class = "pagefour text-center" id="p4">
+    <div class ="row">
+      <div class ="col-md-8">
+        <h1>Contact Me<a href="themagnifcentbidul@gmail.com"</a></h1>
+    <a herf="http://https://www.freecodecamp.org/themagnifcentbidul" target ="blank">themagnifcentbidul</a>
+        </div>
+    
+      <div class ="col-md-4">
+   <div class ="btnlist text-center">
+  <a class ="btn btn-default"
+     href="https://twitter.com/therealBidul"><i class="fa fa-twitter" id="twitterIcon" aria-hidden="true"></i> Twitter</a>
+    
+     <a class ="btn btn-default"
+     href="https://github.com/themagnifcentBidul"><i class="fa fa-github" id="githubIcon" aria-hidden="true"></i> Githup</a>
+    
+     <a class ="btn btn-default"
+     href="https://www.youtube.com"><i class="fa fa-youtube-play" id="youtubeIcon" aria-hidden="true"></i></i> youtube</a>
+    
+     <a class ="btn btn-default"
+     href="https://www.snapchat.com/add/iambasil"><i class="fa fa-snapchat-square" id="snapchatIcon" aria-hidden="true"></i> Snapchat</a>
+    
+      <a class ="btn btn-default"
+     href="https://www.facebook.com/baselalfarra.official"><i class="fa fa-facebook-official" id="facebookIcon" aria-hidden="true"></i> Facebook</a>
+</div>
+   </div>
+        </div>
+        <div class="footer">   
+          
+          <h3>                                    
+    <a herf="https://www.facebook.com/baselalfarra.official" target ="blank">baselalfarra</a>
+    
+  <a herf="#p3" target="blank">Profile</a>
+ <a herf="#p2" target="blank">About Me</a>
+ <a herf="#p4" target="blank">contact me</a>
+    
+    <h3>
+      <p>Copyright Magnificentbasil98 2018 All Rights Reserved </p>
+      </h3>
+
+</div>
+      </div>
+
+          
+   
+  
